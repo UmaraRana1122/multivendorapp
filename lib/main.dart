@@ -1,7 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
+import 'package:multivendorapp/multivendorapp/all_categories.dart';
+import 'package:multivendorapp/multivendorapp/category_page.dart';
 import 'package:multivendorapp/multivendorapp/entrypoint.dart';
+import 'package:multivendorapp/multivendorapp/heading.dart';
 import 'package:multivendorapp/multivendorapp/homePage.dart';
 
 void main() {

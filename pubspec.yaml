@@ -38,6 +38,7 @@ dependencies:
   flutter_screenutil: ^5.9.0
   get :
   flutter_vector_icons: ^2.0.0
+  material_color_utilities: ^0.8.0
   
 
 dev_dependencies:
